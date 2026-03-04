@@ -1,32 +1,32 @@
 # 📚 Web Development Notes (Learning & Revision)
 
 These are my **personal development notes** created while learning and building projects using  
-**JavaScript, React, Node.js, Express, MongoDB, and Next.js**.
+**JavaScript, React, Node.js, Express, MongoDB, Next.js, and SQL**.
 
 The goal of these notes is simple:  
 👉 **build clarity, not just collect resources**.
 
-They are meant to help during:
+They’re useful for:
 - Learning fundamentals  
-- Quick revision before interviews  
+- Revising concepts quickly  
 - Clearing confusion when topics feel scattered  
-- Revisiting concepts while building projects  
+- Interview preparation and project work  
 
-These are not course notes or tutorials — they are notes written while actually learning.
+These are not tutorials or courses — they’re notes written while actually learning.
 
 ---
 
 ## 🎯 Why These Notes Exist
 
-While learning web development, I noticed that most resources are:
+While learning web development, I realised most resources are:
 - Scattered across platforms  
-- Too theoretical or too long  
-- Hard to revise when needed  
+- Hard to revise  
+- Heavy on theory, light on clarity  
 
-While working on real projects (including **Smart Mock Interview**), I started maintaining my own notes to:
+While working on real projects, I started maintaining my own notes to:
 - Connect concepts properly  
 - Avoid re-Googling the same things  
-- Focus on understanding instead of memorizing  
+- Focus on understanding instead of memorising  
 
 Over time, these notes became a **clear revision system**.
 
@@ -36,59 +36,41 @@ Over time, these notes became a **clear revision system**.
 
 These notes focus on **core understanding**, not surface-level definitions.
 
-### 🟨 JavaScript
-- Fundamentals and internals  
-- Scope, closures, hoisting, execution context  
-- Event loop, async behavior, promises  
-- `this` keyword (regular vs arrow)  
-- Throttling and debouncing  
-
-### ⚛️ React
-- Core concepts and mental model  
-- Hooks (basic and custom)  
-- Routing and state management basics  
-- Context API and Redux fundamentals  
-- Performance-related concepts  
-
-### 🟩 Node.js & Express
-- Backend fundamentals  
-- Request–response lifecycle  
-- Express basics and middleware  
-- Frontend–backend connection flow  
-
-### 🧠 MongoDB
-- Database fundamentals  
-- Collections and documents  
-- Schema thinking for real applications  
-
-### 🔵 Next.js (Intro)
-- Why Next.js  
-- Basic concepts and structure  
-- How it differs from plain React  
+- JavaScript fundamentals and internals  
+- Namaste JavaScript concepts  
+- React and modern frontend architecture  
+- Backend basics with Node.js and Express  
+- Databases with MongoDB  
+- SQL fundamentals and advanced queries  
+- Introductory concepts of Next.js  
 
 ---
 
-## 🔗 Notes by Topic (Notion)
+## 🔗 Notes Access (Start Here)
 
-> These are **revision-focused Notion notes**.  
-> You are encouraged to **copy, edit, and reshape them** in your own style.
+### 📂 Main Development Notes (All Topics)
+This is the **main folder** containing all web development notes.  
+From here, you can directly access JavaScript, React, Node, MongoDB, and more.
 
-| Topic | Link |
-|------|------|
-| JavaScript | https://www.notion.so/JavaScript-1fcab110b9f080168f20c6bf2c4b274b |
-| React | https://www.notion.so/React-18dab110b9f0807d8accedba2471a40f |
-| Node.js & Express | https://www.notion.so/Node-Js-1f9ab110b9f08025a779f3ef5decd08b |
-| MongoDB | https://www.notion.so/MongoDB-195ab110b9f080ac8ae0cd5dedc78966 |
+👉 https://www.notion.so/Development-18dab110b9f080a3af1af7e783e34f6e
+
+### 🗄 SQL (Separate, In-Depth)
+SQL notes are maintained separately with focused coverage.
+
+👉 https://www.notion.so/SQL-Complete-231ab110b9f080f2aaaae7bd959b5ac6
+
+> You can **copy these notes, edit them, and reshape them** while learning.  
+> They’re meant to give you a clear structure and direction — not something to follow word for word.
 
 ---
 
 ## 📝 How to Use These Notes
 
-1. Pick a topic you’re currently learning or revising  
-2. Skim first to understand structure  
-3. Go deep only where you feel confused  
-4. Copy the notes into your own Notion workspace  
-5. Modify and add examples while learning  
+1. Open the main Development folder  
+2. Pick the topic you’re currently learning  
+3. Skim first to understand structure  
+4. Go deep only where you feel confused  
+5. Copy and customise the notes in your own Notion workspace  
 
 These notes are meant to **guide your thinking**, not replace it.
 
@@ -96,11 +78,11 @@ These notes are meant to **guide your thinking**, not replace it.
 
 ## 📌 About Detailed Notes
 
-Along with these revision notes, I also maintain:
+Along with these revision-focused notes, I also maintain:
 - **Long, descriptive notes** (notebook / handwritten-style)  
-- Focused on *why* concepts work  
+- Focused on *why* concepts work, with deeper explanations  
 
-If you need deeper explanations, feel free to ask.
+If you need those for deeper understanding, feel free to ask.
 
 ---
 
